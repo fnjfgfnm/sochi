@@ -1,0 +1,21 @@
+
+
+
+
+body{
+    font-family: 'Instrument Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Wix Madefor Display', sans-serif;
+    background: rgb(135,225,249);
+background: radial-gradient(circle, rgba(135,225,249,1) 0%, rgba(189,214,236,1) 100%);
+  
+}
+
+
+img{
+    width: 665px;
+    height: 366px;
+}
+p{
+ font-family: 'Roboto', sans-serif;
+}
